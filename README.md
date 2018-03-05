@@ -1,6 +1,6 @@
 # finance-data-py
 
-parses and retrieves stock data according to date.
+parses and retrieves stock data according to date. made with python 3.6.4
 
 # Usage:
 
