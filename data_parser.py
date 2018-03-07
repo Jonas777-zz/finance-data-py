@@ -27,7 +27,7 @@ def main():
 
 	if date in data:
 		first_node = data[date]
-		print(list(data.keys())[0])
+		print(date)
 		print("open: {}".format(first_node['1. open']))
 		print("high: {}".format(first_node['2. high']))
 		print("low: {}".format(first_node['3. low']))
